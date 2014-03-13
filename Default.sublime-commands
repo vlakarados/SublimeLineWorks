@@ -2,5 +2,9 @@
   {
     "caption": "LineWorks: Delete",
     "command": "lineworks_delete"
+  },
+  {
+    "caption": "LineWorks: Singlify",
+    "command": "lineworks_multi_to_single"
   }
 ]
